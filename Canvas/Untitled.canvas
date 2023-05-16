@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"Esto es una carta","id":"03cc46483a454ea1","x":-200,"y":-140,"width":250,"height":60,"color":"2"},
+		{"type":"file","file":"Contenedores/Docker.md","id":"3479929d60081435","x":-350,"y":60,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"43124d9c51599955","fromNode":"03cc46483a454ea1","fromSide":"bottom","toNode":"3479929d60081435","toSide":"top"}
+	]
+}
